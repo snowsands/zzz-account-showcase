@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 14 14"
+  width="14"
+  height="14"
+>
+  <defs>
+    <linearGradient id="etherGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff0a1a" />
+      <stop offset="17%" stop-color="#ff0626" />
+      <stop offset="50%" stop-color="#b338dd" />
+      <stop offset="85%" stop-color="#2a6bea" />
+      <stop offset="100%" stop-color="#2a6bea" />
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M6.52 0 5.036 3.715a1.68 1.68 0 0 1-.935.936L.385 6.135l3.716 1.483a1.47 1.47 0 0 1 .866.96L6.52 14l1.553-5.422a1.47 1.47 0 0 1 .866-.96l3.716-1.483L8.94 4.65a1.68 1.68 0 0 1-.935-.936Zm4.568 7.83-.57 1.403a1 1 0 0 1-.554.553l-1.403.57 1.403.57a1 1 0 0 1 .554.554l.57 1.404.57-1.404a1 1 0 0 1 .554-.553l1.403-.57-1.403-.57a1 1 0 0 1-.554-.554Z"
+    fill="url(#etherGradient)"
+  />
+</svg>

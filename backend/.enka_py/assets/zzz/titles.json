@@ -1,0 +1,552 @@
+{
+  "3800100": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800100"
+  },
+  "3800101": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800101"
+  },
+  "3800102": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800102"
+  },
+  "3800103": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800103"
+  },
+  "3800104": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800104"
+  },
+  "3800105": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800105"
+  },
+  "3800106": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800106"
+  },
+  "3800107": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800107"
+  },
+  "3800108": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800108"
+  },
+  "3800109": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800109"
+  },
+  "3800110": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800110"
+  },
+  "3800111": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800111"
+  },
+  "3800112": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800112"
+  },
+  "3800113": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800113"
+  },
+  "3800114": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800114"
+  },
+  "3800115": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800115"
+  },
+  "3800116": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800116"
+  },
+  "3800117": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800117"
+  },
+  "3800118": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800118"
+  },
+  "3800119": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800119"
+  },
+  "3800120": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800120"
+  },
+  "3800121": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800121"
+  },
+  "3800122": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800122"
+  },
+  "3800123": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800123"
+  },
+  "3800124": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800124"
+  },
+  "3800125": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800125"
+  },
+  "3800126": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800126"
+  },
+  "3800127": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800127"
+  },
+  "3800128": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800128"
+  },
+  "3800129": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800129"
+  },
+  "3800130": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800130"
+  },
+  "3800131": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800131"
+  },
+  "3800132": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800132"
+  },
+  "3800133": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800133"
+  },
+  "3800134": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800134"
+  },
+  "3800135": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800135"
+  },
+  "3800136": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800136"
+  },
+  "3800137": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800137"
+  },
+  "3800138": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800138"
+  },
+  "3800139": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800139"
+  },
+  "3800140": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800140"
+  },
+  "3800141": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800141"
+  },
+  "3800142": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800142"
+  },
+  "3800143": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800143"
+  },
+  "3800144": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800144"
+  },
+  "3800145": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800145"
+  },
+  "3800146": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800146"
+  },
+  "3800147": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800147"
+  },
+  "3800148": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800148"
+  },
+  "3800149": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800149"
+  },
+  "3800150": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800150"
+  },
+  "3800151": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800151"
+  },
+  "3800152": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800152"
+  },
+  "3800153": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800153"
+  },
+  "3800154": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800154"
+  },
+  "3800155": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800155"
+  },
+  "3800156": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800156"
+  },
+  "3800157": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800157"
+  },
+  "3800158": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800158"
+  },
+  "3800159": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800159"
+  },
+  "3800160": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800160"
+  },
+  "3800161": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800161"
+  },
+  "3800162": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800162"
+  },
+  "3800164": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800164"
+  },
+  "3800165": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800165"
+  },
+  "3800166": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800166"
+  },
+  "3800167": {
+    "ColorA": "9bf00b",
+    "ColorB": "107c10",
+    "TitleText": "TitleText_3800167"
+  },
+  "3800168": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800168"
+  },
+  "3800169": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800169"
+  },
+  "3800170": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800170"
+  },
+  "3800171": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800171"
+  },
+  "3800172": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800172"
+  },
+  "3800173": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800173"
+  },
+  "3800174": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800174"
+  },
+  "3800175": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800175"
+  },
+  "3800176": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800176"
+  },
+  "3800177": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800177"
+  },
+  "3800179": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800179"
+  },
+  "3800180": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800180"
+  },
+  "3800181": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800181"
+  },
+  "3800182": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800182"
+  },
+  "3800183": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800183"
+  },
+  "3800184": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800184"
+  },
+  "3800185": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800185"
+  },
+  "3800186": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800186"
+  },
+  "3800187": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800187"
+  },
+  "3800188": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800188"
+  },
+  "3800189": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800189"
+  },
+  "3800190": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800190"
+  },
+  "3800191": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800191"
+  },
+  "3800192": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800192"
+  },
+  "3800193": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800193"
+  },
+  "3800194": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800194"
+  },
+  "3800195": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800195"
+  },
+  "3800196": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800196"
+  },
+  "3800197": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800197"
+  },
+  "3800198": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800198"
+  },
+  "3800199": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800199"
+  },
+  "3800200": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800200"
+  },
+  "3800201": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800201"
+  },
+  "3800202": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800202"
+  },
+  "3800203": {
+    "ColorA": "f58661",
+    "ColorB": "fe357b",
+    "TitleText": "TitleText_3800203"
+  },
+  "3800204": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800204"
+  },
+  "3800205": {
+    "ColorA": "e6e9ea",
+    "ColorB": "8ea3ae",
+    "TitleText": "TitleText_3800205"
+  },
+  "3800206": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800206"
+  },
+  "3800207": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800207"
+  },
+  "3800208": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800208"
+  },
+  "3800209": {
+    "ColorA": "fab700",
+    "ColorB": "fe6300",
+    "TitleText": "TitleText_3800209"
+  },
+  "3800210": {
+    "ColorA": "00cefb",
+    "ColorB": "0263e5",
+    "TitleText": "TitleText_3800210"
+  },
+  "3809999": {
+    "ColorA": "FFFFFF",
+    "ColorB": "",
+    "TitleText": "TitleText_3809999"
+  }
+}

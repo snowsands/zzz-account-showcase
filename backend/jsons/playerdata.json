@@ -1,0 +1,1301 @@
+{
+  "player": {
+    "name": "skade",
+    "avatar": 2021,
+    "id": 3231411,
+    "namecard_id": 3302003,
+    "namecard_icon": "https://enka.network/ui/zzz/ImgCardHollowZero03.png",
+    "signature": "ellen jillion damage",
+    "level": 60
+  },
+  "agents": [
+    {
+      "name": "Miyabi",
+      "rarity": "S",
+      "color_accent": "#22bdcc",
+      "color_mindscape": "#0fa4c4",
+      "level": 60,
+      "promotion": 6,
+      "mindscape": 2,
+      "element": "FireFrost",
+      "stats": [
+        {
+          "name": "MAX_HP",
+          "value": 10209
+        },
+        {
+          "name": "ATK",
+          "value": 3662
+        },
+        {
+          "name": "DEF",
+          "value": 877
+        },
+        {
+          "name": "IMPACT",
+          "value": 86
+        },
+        {
+          "name": "CRIT_RATE",
+          "value": 6500
+        },
+        {
+          "name": "CRIT_DMG",
+          "value": 14280
+        },
+        {
+          "name": "PEN_RATIO",
+          "value": 800
+        },
+        {
+          "name": "PEN",
+          "value": 18
+        },
+        {
+          "name": "ENERGY_REGEN",
+          "value": 120
+        },
+        {
+          "name": "SHEER_FORCE",
+          "value": 0
+        },
+        {
+          "name": "AAA",
+          "value": 0
+        },
+        {
+          "name": "ANOMALY_PROFICIENCY",
+          "value": 292
+        },
+        {
+          "name": "ANOMALY_MASTERY",
+          "value": 116
+        },
+        {
+          "name": "PHYSICAL_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "FIRE_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ICE_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ELECTRIC_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ETHER_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "SHEER_DMG_BONUS",
+          "value": 0
+        }
+      ],
+      "core_skill_lvl": 6,
+      "skills": [
+        {
+          "skill_type": "BASIC_ATK",
+          "skill_lvl": 12
+        },
+        {
+          "skill_type": "SPECIAL_ATK",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "DASH",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "ULTIMATE",
+          "skill_lvl": 12
+        },
+        {
+          "skill_type": "CORE_SKILL",
+          "skill_lvl": 7
+        },
+        {
+          "skill_type": "ASSIST",
+          "skill_lvl": 7
+        }
+      ],
+      "discs": [
+        {
+          "slot": 1,
+          "set_id": 32700,
+          "set_icon": "/ui/zzz/SuitBranch&BladeSong.png",
+          "id": 32741,
+          "uid": 3942,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 2200
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 19
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 720
+            }
+          ]
+        },
+        {
+          "slot": 2,
+          "set_id": 32700,
+          "set_icon": "/ui/zzz/SuitBranch&BladeSong.png",
+          "id": 32742,
+          "uid": 5158,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 316
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "Anomaly Proficiency",
+              "sub_stat_value": 18
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            }
+          ]
+        },
+        {
+          "slot": 3,
+          "set_id": 31100,
+          "set_icon": "/ui/zzz/SuitPufferElectro.png",
+          "id": 31143,
+          "uid": 11165,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 184
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 720
+            },
+            {
+              "sub_stat": "PEN",
+              "sub_stat_value": 9
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 300
+            }
+          ]
+        },
+        {
+          "slot": 4,
+          "set_id": 31100,
+          "set_icon": "/ui/zzz/SuitPufferElectro.png",
+          "id": 31144,
+          "uid": 9560,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Anomaly Proficiency",
+              "sub_stat_value": 9
+            },
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 336
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            }
+          ]
+        },
+        {
+          "slot": 5,
+          "set_id": 32700,
+          "set_icon": "/ui/zzz/SuitBranch&BladeSong.png",
+          "id": 32745,
+          "uid": 12428,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "Anomaly Proficiency",
+              "sub_stat_value": 27
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Percent DEF",
+              "sub_stat_value": 480
+            }
+          ]
+        },
+        {
+          "slot": 6,
+          "set_id": 32700,
+          "set_icon": "/ui/zzz/SuitBranch&BladeSong.png",
+          "id": 32746,
+          "uid": 3592,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 720
+            },
+            {
+              "sub_stat": "PEN",
+              "sub_stat_value": 9
+            },
+            {
+              "sub_stat": "Percent DEF",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            }
+          ]
+        }
+      ],
+      "wengine": {
+        "name": "Hailstorm Shrine",
+        "id": 14109,
+        "uid": 2885,
+        "level": 60,
+        "specialty": "Anomaly",
+        "icon": "https://enka.network/ui/zzz/Weapon_S_1091.png",
+        "modification": 5,
+        "rarity": 4,
+        "phase": 1,
+        "main_stat": {
+          "name": "Base ATK",
+          "value": 743
+        },
+        "sub_stat": {
+          "name": "CRIT Rate",
+          "value": 2400
+        }
+      }
+    },
+    {
+      "name": "Ellen",
+      "rarity": "S",
+      "color_accent": "#b2b2b2",
+      "color_mindscape": "#fd3576",
+      "level": 60,
+      "promotion": 6,
+      "mindscape": 1,
+      "element": "Ice",
+      "stats": [
+        {
+          "name": "MAX_HP",
+          "value": 10097
+        },
+        {
+          "name": "ATK",
+          "value": 3094
+        },
+        {
+          "name": "DEF",
+          "value": 921
+        },
+        {
+          "name": "IMPACT",
+          "value": 93
+        },
+        {
+          "name": "CRIT_RATE",
+          "value": 8020
+        },
+        {
+          "name": "CRIT_DMG",
+          "value": 16040
+        },
+        {
+          "name": "PEN_RATIO",
+          "value": 800
+        },
+        {
+          "name": "PEN",
+          "value": 9
+        },
+        {
+          "name": "ENERGY_REGEN",
+          "value": 120
+        },
+        {
+          "name": "SHEER_FORCE",
+          "value": 0
+        },
+        {
+          "name": "AAA",
+          "value": 0
+        },
+        {
+          "name": "ANOMALY_PROFICIENCY",
+          "value": 111
+        },
+        {
+          "name": "ANOMALY_MASTERY",
+          "value": 94
+        },
+        {
+          "name": "PHYSICAL_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "FIRE_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ICE_DMG_BONUS",
+          "value": 3000
+        },
+        {
+          "name": "ELECTRIC_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ETHER_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "SHEER_DMG_BONUS",
+          "value": 0
+        }
+      ],
+      "core_skill_lvl": 6,
+      "skills": [
+        {
+          "skill_type": "BASIC_ATK",
+          "skill_lvl": 12
+        },
+        {
+          "skill_type": "SPECIAL_ATK",
+          "skill_lvl": 12
+        },
+        {
+          "skill_type": "DASH",
+          "skill_lvl": 12
+        },
+        {
+          "skill_type": "ULTIMATE",
+          "skill_lvl": 12
+        },
+        {
+          "skill_type": "CORE_SKILL",
+          "skill_lvl": 7
+        },
+        {
+          "skill_type": "ASSIST",
+          "skill_lvl": 9
+        }
+      ],
+      "discs": [
+        {
+          "slot": 1,
+          "set_id": 31100,
+          "set_icon": "/ui/zzz/SuitPufferElectro.png",
+          "id": 31141,
+          "uid": 2011,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 2200
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 900
+            },
+            {
+              "sub_stat": "PEN",
+              "sub_stat_value": 9
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            }
+          ]
+        },
+        {
+          "slot": 2,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31042,
+          "uid": 5769,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 316
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 900
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 240
+            },
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 15
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            }
+          ]
+        },
+        {
+          "slot": 3,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31043,
+          "uid": 10886,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 184
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "Anomaly Proficiency",
+              "sub_stat_value": 18
+            }
+          ]
+        },
+        {
+          "slot": 4,
+          "set_id": 31100,
+          "set_icon": "/ui/zzz/SuitPufferElectro.png",
+          "id": 31144,
+          "uid": 8875,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 4800
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Percent DEF",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 38
+            }
+          ]
+        },
+        {
+          "slot": 5,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31045,
+          "uid": 7139,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Ice DMG\u00a0Bonus",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "Percent DEF",
+              "sub_stat_value": 480
+            }
+          ]
+        },
+        {
+          "slot": 6,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31046,
+          "uid": 1075,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 720
+            },
+            {
+              "sub_stat": "Percent DEF",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 224
+            }
+          ]
+        }
+      ],
+      "wengine": {
+        "name": "Heartstring Nocturne",
+        "id": 14132,
+        "uid": 10407,
+        "level": 60,
+        "specialty": "Attack",
+        "icon": "https://enka.network/ui/zzz/Weapon_S_1321.png",
+        "modification": 5,
+        "rarity": 4,
+        "phase": 1,
+        "main_stat": {
+          "name": "Base ATK",
+          "value": 713
+        },
+        "sub_stat": {
+          "name": "CRIT Rate",
+          "value": 2400
+        }
+      }
+    },
+    {
+      "name": "Ye Shunguang",
+      "rarity": "S",
+      "color_accent": "#f5b42e",
+      "color_mindscape": "#d84620",
+      "level": 60,
+      "promotion": 6,
+      "mindscape": 0,
+      "element": "ZhenZhenAssault",
+      "stats": [
+        {
+          "name": "MAX_HP",
+          "value": 10209
+        },
+        {
+          "name": "ATK",
+          "value": 3598
+        },
+        {
+          "name": "DEF",
+          "value": 805
+        },
+        {
+          "name": "IMPACT",
+          "value": 83
+        },
+        {
+          "name": "CRIT_RATE",
+          "value": 4580
+        },
+        {
+          "name": "CRIT_DMG",
+          "value": 23880
+        },
+        {
+          "name": "PEN_RATIO",
+          "value": 0
+        },
+        {
+          "name": "PEN",
+          "value": 18
+        },
+        {
+          "name": "ENERGY_REGEN",
+          "value": 120
+        },
+        {
+          "name": "SHEER_FORCE",
+          "value": 0
+        },
+        {
+          "name": "AAA",
+          "value": 0
+        },
+        {
+          "name": "ANOMALY_PROFICIENCY",
+          "value": 129
+        },
+        {
+          "name": "ANOMALY_MASTERY",
+          "value": 94
+        },
+        {
+          "name": "PHYSICAL_DMG_BONUS",
+          "value": 1000
+        },
+        {
+          "name": "FIRE_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ICE_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ELECTRIC_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ETHER_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "SHEER_DMG_BONUS",
+          "value": 0
+        }
+      ],
+      "core_skill_lvl": 6,
+      "skills": [
+        {
+          "skill_type": "BASIC_ATK",
+          "skill_lvl": 12
+        },
+        {
+          "skill_type": "SPECIAL_ATK",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "DASH",
+          "skill_lvl": 7
+        },
+        {
+          "skill_type": "ULTIMATE",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "CORE_SKILL",
+          "skill_lvl": 7
+        },
+        {
+          "skill_type": "ASSIST",
+          "skill_lvl": 7
+        }
+      ],
+      "discs": [
+        {
+          "slot": 1,
+          "set_id": 33500,
+          "set_icon": "/ui/zzz/SuitWhiteWaterBallad.png",
+          "id": 33541,
+          "uid": 12417,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 2200
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 15
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 900
+            }
+          ]
+        },
+        {
+          "slot": 2,
+          "set_id": 33500,
+          "set_icon": "/ui/zzz/SuitWhiteWaterBallad.png",
+          "id": 33542,
+          "uid": 12615,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 316
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1920
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "PEN",
+              "sub_stat_value": 9
+            }
+          ]
+        },
+        {
+          "slot": 3,
+          "set_id": 32700,
+          "set_icon": "/ui/zzz/SuitBranch&BladeSong.png",
+          "id": 32743,
+          "uid": 3376,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 184
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 900
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "PEN",
+              "sub_stat_value": 9
+            }
+          ]
+        },
+        {
+          "slot": 4,
+          "set_id": 33500,
+          "set_icon": "/ui/zzz/SuitWhiteWaterBallad.png",
+          "id": 33544,
+          "uid": 11862,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 4800
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Anomaly Proficiency",
+              "sub_stat_value": 18
+            },
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 112
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 900
+            }
+          ]
+        },
+        {
+          "slot": 5,
+          "set_id": 32700,
+          "set_icon": "/ui/zzz/SuitBranch&BladeSong.png",
+          "id": 32745,
+          "uid": 7278,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 19
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 224
+            }
+          ]
+        },
+        {
+          "slot": 6,
+          "set_id": 33500,
+          "set_icon": "/ui/zzz/SuitWhiteWaterBallad.png",
+          "id": 33546,
+          "uid": 11859,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 19
+            },
+            {
+              "sub_stat": "Anomaly Proficiency",
+              "sub_stat_value": 18
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1920
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 240
+            }
+          ]
+        }
+      ],
+      "wengine": {
+        "name": "Cloudcleave Radiance",
+        "id": 14143,
+        "uid": 11799,
+        "level": 60,
+        "specialty": "Attack",
+        "icon": "https://enka.network/ui/zzz/Weapon_S_1431.png",
+        "modification": 5,
+        "rarity": 4,
+        "phase": 1,
+        "main_stat": {
+          "name": "Base ATK",
+          "value": 743
+        },
+        "sub_stat": {
+          "name": "CRIT DMG",
+          "value": 4800
+        }
+      }
+    },
+    {
+      "name": "Soldier 11",
+      "rarity": "S",
+      "color_accent": "#ffc300",
+      "color_mindscape": "#ffc91c",
+      "level": 60,
+      "promotion": 6,
+      "mindscape": 2,
+      "element": "Fire",
+      "stats": [
+        {
+          "name": "MAX_HP",
+          "value": 10906
+        },
+        {
+          "name": "ATK",
+          "value": 3105
+        },
+        {
+          "name": "DEF",
+          "value": 914
+        },
+        {
+          "name": "IMPACT",
+          "value": 93
+        },
+        {
+          "name": "CRIT_RATE",
+          "value": 8020
+        },
+        {
+          "name": "CRIT_DMG",
+          "value": 13160
+        },
+        {
+          "name": "PEN_RATIO",
+          "value": 0
+        },
+        {
+          "name": "PEN",
+          "value": 36
+        },
+        {
+          "name": "ENERGY_REGEN",
+          "value": 120
+        },
+        {
+          "name": "SHEER_FORCE",
+          "value": 0
+        },
+        {
+          "name": "AAA",
+          "value": 0
+        },
+        {
+          "name": "ANOMALY_PROFICIENCY",
+          "value": 93
+        },
+        {
+          "name": "ANOMALY_MASTERY",
+          "value": 94
+        },
+        {
+          "name": "PHYSICAL_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "FIRE_DMG_BONUS",
+          "value": 4000
+        },
+        {
+          "name": "ICE_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ELECTRIC_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "ETHER_DMG_BONUS",
+          "value": 0
+        },
+        {
+          "name": "SHEER_DMG_BONUS",
+          "value": 0
+        }
+      ],
+      "core_skill_lvl": 6,
+      "skills": [
+        {
+          "skill_type": "BASIC_ATK",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "SPECIAL_ATK",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "DASH",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "ULTIMATE",
+          "skill_lvl": 11
+        },
+        {
+          "skill_type": "CORE_SKILL",
+          "skill_lvl": 7
+        },
+        {
+          "skill_type": "ASSIST",
+          "skill_lvl": 7
+        }
+      ],
+      "discs": [
+        {
+          "slot": 1,
+          "set_id": 32200,
+          "set_icon": "/ui/zzz/SuitInfernoMetal.png",
+          "id": 32241,
+          "uid": 9129,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 2200
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "Percent HP",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 720
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 960
+            }
+          ]
+        },
+        {
+          "slot": 2,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31042,
+          "uid": 6269,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 316
+            },
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 30
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "PEN",
+              "sub_stat_value": 18
+            }
+          ]
+        },
+        {
+          "slot": 3,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31043,
+          "uid": 5471,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 184
+            },
+            {
+              "sub_stat": "PEN",
+              "sub_stat_value": 18
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 300
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 960
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 960
+            }
+          ]
+        },
+        {
+          "slot": 4,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31044,
+          "uid": 11591,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 2400
+            },
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 600
+            },
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 19
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "Percent DEF",
+              "sub_stat_value": 960
+            }
+          ]
+        },
+        {
+          "slot": 5,
+          "set_id": 31000,
+          "set_icon": "/ui/zzz/SuitWoodpeckerElectro.png",
+          "id": 31045,
+          "uid": 5563,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Fire DMG\u00a0Bonus",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "ATK",
+              "sub_stat_value": 19
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1920
+            },
+            {
+              "sub_stat": "DEF",
+              "sub_stat_value": 30
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 240
+            }
+          ]
+        },
+        {
+          "slot": 6,
+          "set_id": 32200,
+          "set_icon": "/ui/zzz/SuitInfernoMetal.png",
+          "id": 32246,
+          "uid": 2106,
+          "level": 15,
+          "rarity": "S",
+          "substats": [
+            {
+              "sub_stat": "Percent ATK",
+              "sub_stat_value": 3000
+            },
+            {
+              "sub_stat": "HP",
+              "sub_stat_value": 112
+            },
+            {
+              "sub_stat": "CRIT DMG",
+              "sub_stat_value": 1440
+            },
+            {
+              "sub_stat": "CRIT Rate",
+              "sub_stat_value": 480
+            },
+            {
+              "sub_stat": "Percent HP",
+              "sub_stat_value": 600
+            }
+          ]
+        }
+      ],
+      "wengine": {
+        "name": "The Brimstone",
+        "id": 14104,
+        "uid": 7059,
+        "level": 60,
+        "specialty": "Attack",
+        "icon": "https://enka.network/ui/zzz/Weapon_S_1041.png",
+        "modification": 5,
+        "rarity": 4,
+        "phase": 1,
+        "main_stat": {
+          "name": "Base ATK",
+          "value": 684
+        },
+        "sub_stat": {
+          "name": "Percent ATK",
+          "value": 3000
+        }
+      }
+    }
+  ]
+}

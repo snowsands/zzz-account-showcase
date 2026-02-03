@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 14 14"
+  width="14"
+  height="14"
+>
+  <defs>
+    <linearGradient id="electricGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0075ff" />
+      <stop offset="100%" stop-color="#3decff" />
+    </linearGradient>
+  </defs>
+
+  <path
+    d="m9.822.624-5.237.624-1.573 5.236 2.143-.054-1.736 6.946 6.783-8.628-2.768.217ZM1.6 5.779 0 7.705l.678 2.578.652-.57.949 2.496.597-4.531-1.167.814Zm9.17 1.004L8.14 9.225l1.166.298-2.7 3.392 6.065-2.768-1.764-.786L14 7Z"
+    fill="url(#electricGradient)"
+  />
+</svg>
