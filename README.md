@@ -10,6 +10,7 @@ just enter your uid and it displays your player info, agents and their builds
 
 
 only did backgrounds and thumbnails for a few characters, feel free to add your own
+
 artwork not by me, credits below:
 
 ellen:
