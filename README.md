@@ -34,10 +34,12 @@ https://www.pixiv.net/en/artworks/136387326
 
 # setup
 in the frontend directory:
+
 npm install
+
 npm run dev
-run the project locally
 
 in the backend directory:
+
 uvicorn --reload fastapi_app:app
 
