@@ -1,10 +1,10 @@
-# zenless zone zero agent build display
+# zenless zone zero account showcase
 
 built with react frontend and fastapi backend
 uses the enka.py wrapper api for fetching player data
 https://github.com/seriaati/enka-py
 
-just enter your uid and it displays your characters and their builds
+just enter your uid and it displays your player info, agents and their builds
 
 
 only did backgrounds and thumbnails for a few characters, feel free to add your own
